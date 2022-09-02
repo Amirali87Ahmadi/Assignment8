@@ -1,0 +1,405 @@
+#asli{
+    width: 100%;
+    height: 480%;
+    background-color: white;
+    /*text-align: center;*/
+}
+#aks{
+    width: 100%;
+    height: 550px;
+}
+#amir{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 2 10 2 10;
+    margin-top: -85px;
+    margin-left: 25px;
+    position: absolute;
+}
+#amir:hover{
+    background-color: darkcyan;
+
+}
+#bezi{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+#vili{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    margin-top: 70px;
+}
+.jj{
+    width: 25%;
+    height: 250px;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.mj{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.yaya{
+    border-radius: 50%;
+    margin-top: 5px;
+}
+.yaya:hover{
+    opacity: 0.5;
+}
+#mamad{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.dada{
+    width: 25%;
+    height: 550px;
+    background-color:black;
+    box-sizing: border-box;
+    margin-top: 70px;
+    padding: 50 5 50 5 ;
+}
+.bbc{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.q{
+    width: 100%;
+    height: 180px;
+}
+#fc{
+    padding: 5px;
+}
+.pad{
+    padding: 5px;
+}
+#dali{
+    background-color: darkcyan;
+    color: white;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    margin-top: 97px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+#dali:hover{
+    background-color: gray;
+    color: black;
+}
+#mah{
+    margin-top: 70px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+#fadaei{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+.hich{
+    width: 33%;
+    height: 500px;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 20 10 20 10;
+}
+.quf{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    text-align: center;
+    /*padding: 5px;*/
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+.quf:hover{
+    box-shadow: 0px 0px 8px 2px gray;
+}
+.html{
+    height: 1px;
+    width: 350px;
+}
+.css{
+    color: gray;
+}
+.php{
+    text-align: center;
+    padding: 15 25 15 25;
+    margin: 25px;
+    background-color: darkcyan;
+    color: white;
+    border-style: none;
+}
+.java{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100px;
+    margin-top: 0px;
+}
+.py{
+    width: 100%;
+    height: 95px;
+    background-color: gainsboro;
+
+}
+.php:hover{
+    background-color: gray;
+    color: black;
+}
+#kfc{
+    margin-top: -20px;
+}
+
+
+
+
+
+#pishro{
+    margin-top: 50px;
+    width: 100%;
+    height: 450px;
+    background-color: gainsboro;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fan{
+    width: 50%;
+    height: 400px;
+    background-color: gainsboro;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+.hd{
+    width: 100%;
+    height: 300px;
+    background-color: gainsboro;
+    box-sizing: border-box;
+}
+#qwe{
+    padding: 20px;
+}
+#cxz{
+    width: 95%;
+    height: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 10px;
+}
+.kjh{
+    border-style: none;
+}
+.kjh:focus{
+    width: 500px;
+    height: 30px;
+}
+#mnb{
+    padding: 5 25 5 25;
+    border-style: none;
+    background-color: black;
+    color: white;
+    margin-left: 410px;
+    margin-top: -40px;
+}
+#mnb:hover{
+    background-color: gainsboro;
+    color: black;
+}
+
+#bts{
+    padding: 30px;
+    width: 100%;
+    height: 230px;
+    background-color:black;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: -20px;
+    flex-wrap: wrap;
+}
+#htp{
+    width: 30%;
+    height: 65px;
+    margin: 2vh auto 0;
+    background-color: black;
+    display: flex;
+    padding: 0 40 0 40;
+}
+.qery{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 5 20 5 20;
+}
+.reza{
+    width: 100%;
+    height: 100%;
+    background-color: darkcyan;
+    color: white;
+    box-sizing: border-box;
+    font-size: 40px;
+}
+.reza:hover{
+    background-color: gainsboro;
+    color: black;
+}
+#yyyyy{
+    color: white;
+}
+#messi{
+    color: white;
+}
+#babal{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    font-size: 50px;
+    margin-left: 1000px;
+    margin-top: -100px;
+}
+#babal:hover{
+    background-color: gray;
+    color: white;
+}
+#tntt{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed;
+}
+@media only screen and (max-width: 1000px) {
+    #aks{
+        width: 100%;
+        height: 400px;
+    }
+    .jj{
+        width: 50%;
+        margin-bottom: -40px;
+    }
+    .dada{
+        width: 50%;
+        margin-top: 250px;
+        margin-bottom: -250px;
+    }
+    #mah{
+        margin-top: 800px;
+    }
+    .hich{
+        width: 50%;
+        margin-top: 20px;
+    }
+    .fan{
+        width: 50%;
+        margin-top: 530px;
+        margin-bottom: -1100px;
+    }
+    .kjh:focus{
+        width: 430px;
+    }
+    #mnb{
+        margin-left: 300px;
+        background-color: black;
+    }
+    #mnb:hover{
+        background-color: darkcyan;
+        color: white;
+    }
+    #asb{
+        width: 100%;
+        height: 400px;
+        margin-top: 480px;
+    }
+    .qery{
+        margin-left: -70px;
+        padding: 4px;
+        margin: -1px;
+    }
+    .reza{
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+    #babal{
+        margin-left: 850px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    #aks{
+        width: 100%;
+        height: 300px;
+    }
+    .jj{
+        width: 100%;
+        margin-bottom: -40px;
+    }
+    .dada{
+        width: 100%;
+        margin-top: 650px;
+        margin-bottom: -750px;
+    }
+    #mah{
+        margin-top: 2000px;
+    }
+    .hich{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .fan{
+        width: 100%;
+        margin-top: 1050px;
+        margin-bottom: -1100px;
+    }
+    .kjh:focus{
+        width: 415px;
+    }
+    #mnb{
+        margin-left: 300px;
+    }
+    #asb{
+        width: 100%;
+        height: 400px;
+        margin-top: 1350px;
+    }
+    .qery{
+        margin-left: -70px;
+        padding: 4px;
+        margin: -1px;
+    }
+    .reza{
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+    #babal{
+        margin-left: 370px;
+    }
+}
