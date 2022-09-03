@@ -288,13 +288,162 @@
     background-color: gray;
     color: white;
 }
-#tntt{
+/*@media only screen and (max-width: 1000px) {
+    #aks{
+        width: 100%;
+        height: 400px;
+    }
+    .jj{
+        width: 50%;
+        margin-bottom: -40px;
+    }
+    .dada{
+        width: 50%;
+        margin-top: 250px;
+        margin-bottom: -250px;
+    }
+    #mah{
+        margin-top: 800px;
+    }
+    .hich{
+        width: 50%;
+        margin-top: 20px;
+    }
+    .fan{
+        width: 50%;
+        margin-top: 530px;
+        margin-bottom: -1100px;
+    }
+    .kjh:focus{
+        width: 430px;
+    }
+    #mnb{
+        margin-left: 300px;
+        background-color: black;
+    }
+    #mnb:hover{
+        background-color: darkcyan;
+        color: white;
+    }
+    #asb{
+        width: 100%;
+        height: 400px;
+        margin-top: 480px;
+    }
+    .qery{
+        margin-left: -70px;
+        padding: 4px;
+        margin: -1px;
+    }
+    .reza{
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+    #babal{
+        margin-left: 850px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    #aks{
+        width: 100%;
+        height: 300px;
+    }
+    .jj{
+        width: 100%;
+        margin-bottom: -40px;
+    }
+    .dada{
+        width: 100%;
+        margin-top: 650px;
+        margin-bottom: -750px;
+    }
+    #mah{
+        margin-top: 2000px;
+    }
+    .hich{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .fan{
+        width: 100%;
+        margin-top: 1050px;
+        margin-bottom: -1100px;
+    }
+    .kjh:focus{
+        width: 415px;
+    }
+    #mnb{
+        margin-left: 300px;
+    }
+    #asb{
+        width: 100%;
+        height: 400px;
+        margin-top: 1350px;
+    }
+    .qery{
+        margin-left: -70px;
+        padding: 4px;
+        margin: -1px;
+    }
+    .reza{
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+    #babal{
+        margin-left: 370px;
+    }
+}*/
+header{
     width: 100%;
     height: 50px;
-    background-color: black;
-    display: flex;
-    flex-wrap: wrap;
     position: fixed;
+}
+header ul{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    position: fixed;
+    text-align: left;
+    padding-left: 0px;
+    margin-top: -8px;
+}
+header ul li{
+    display: inline;
+    list-style-type: none;
+    margin: -2px;
+}
+header ul li a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 3 20 20 20;
+    flex-wrap: wrap;
+}
+header ul li a:hover{
+    background-color: gainsboro;
+    color:black;
+}
+#spors{
+    margin-left: 560px;
+}
+
+
+.emad{
+    background-color: black;
+    width: 0px;
+}
+header .emad li{
+    display: block;
+    margin-left: 410px;
+    margin-top: 30px;
+    margin-bottom: -10px;
+    display: none;
+    flex-wrap: wrap;
+}
+header li:hover .emad li{
+    display: block;
 }
 @media only screen and (max-width: 1000px) {
     #aks{
@@ -401,5 +550,8 @@
     }
     #babal{
         margin-left: 370px;
+    }
+    header ul li{
+        margin-top: 30px;
     }
 }
